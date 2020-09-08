@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# This is a header 1 for my site
+## This is a header 2
